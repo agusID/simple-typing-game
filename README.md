@@ -1,7 +1,7 @@
 # Simple Typing Game
 
-[![game](https://img.shields.io/badge/%20-flow-green.svg)](https://flow.org/)
-[![javascript](https://img.shields.io/badge/%20-javascript-yellow.svg)](https://flow.org/)
+[![game](https://img.shields.io/badge/%20-game-blueviolet.svg)]()
+[![javascript](https://img.shields.io/badge/%20-javascript-yellow.svg)]()
 
 How fast are you?
 
